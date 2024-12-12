@@ -1,10 +1,10 @@
 # Music Typing App
 
-A fun and interactive web application that allows users to create music by typing or clicking on a grid of keys. Each key corresponds to a unique sound, giving users an engaging and creative experience. 
+A fun and interactive web application that allows users to create music by typing or clicking on a grid of keys. Each key corresponds to a unique sound, inspired by **D minor** and **B minor** scales, for a rich and melodious experience.
 
 ## 🎶 Features
 - Interactive keyboard with **9 musical notes**.
-- Sounds inspired by **pop music**, including kicks, snares, hi-hats, and synths.
+- Sounds inspired by **pop music** and **minor scales** (D minor, B minor).
 - **Mouse click support** for users who prefer not to type.
 - Visual feedback with dynamic animations using **Particles.js**.
 - Easy to customize for different music genres.
@@ -24,7 +24,6 @@ Follow these instructions to set up the project locally.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/music-typing-app.git
-   ```
 
 2. Navigate to the project directory:
    ```bash
@@ -84,3 +83,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 Enjoy the rhythm and creativity with the **Music Typing App**! Feel free to star ⭐ the repository if you found it useful.
+
