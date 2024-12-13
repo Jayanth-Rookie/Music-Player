@@ -23,7 +23,7 @@ Follow these instructions to set up the project locally.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/music-typing-app.git
+   https://github.com/Jayanth-Rookie/Music-Player.git
 
 2. Navigate to the project directory:
    ```bash
