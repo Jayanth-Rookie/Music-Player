@@ -10,7 +10,7 @@ A fun and interactive web application that allows users to create music by typin
 - Easy to customize for different music genres.
 
 ## 🖥️ Demo
-[Click here to view the live demo!](#)
+[Click here to view the live demo!](#https://jayanth-rookie.github.io/Music-Player/)
 
 ## 🚀 Getting Started
 
